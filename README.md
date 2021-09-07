@@ -1,0 +1,4 @@
+- Hi, I’m @brennanburris, a Mechanical Engineering student at Colorado State University
+- I’m interested in vehicle dynamics and racecar design
+- I’m currently in my third year taking Circuits, Manufacturing, Statics, and Engineering Experimentation
+- I can be reached by email at brennanburris@gmail.com
